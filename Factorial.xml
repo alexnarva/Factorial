@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funcion>
+    <nombre>factorial</nombre>
+    <descripcion>Calcula el factorial de un número entero positivo.</descripcion>
+    <parametro tipo="int">numero</parametro>
+    <retorno tipo="long">Factorial del número</retorno>
+</funcion>
