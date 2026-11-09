@@ -1,0 +1,12 @@
+name: Pipeline de Alejandro Narvaez Ferre
+
+on:
+  push:
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar mensaje
+        run: echo "Pipeline de prueba de Alejandro Narvaez Ferre"
